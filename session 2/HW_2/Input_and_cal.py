@@ -7,4 +7,4 @@ if  n == 1 :
 elif n==2 :
     print (' wow , bạn nhập số 2 thì giỏi vl , 2x1=2  thôi mà ??')
 else:
-    print ('tích của số từ 1 đến',n,'là :',y)
+    print ('giai thừa của ',n,'là :',y)

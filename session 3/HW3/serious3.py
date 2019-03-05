@@ -26,7 +26,7 @@ while  i == '3':
     print('t e k d s c h i')
     ans = input('câu trả lời của bạn : ')
     if ans == 'techkids':
-        print('học vui lắm mọi người ạ')
+        print('yeah :)))))))))))))))))))')
         break
     else :
         print('tip : học ở đâu đấy')

@@ -40,6 +40,6 @@ vd :
 ta có 1 tập py tên python1.py và trong đó có hàm tên: function()
 sang tập py tên python2.py
 gõ : 
-from python1 import function() 
+from python1 import function 
 function()
 
